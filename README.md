@@ -11,7 +11,11 @@ PokemonCards is an Android app that displays a list of Pokémon fetched from the
 
 ## Screenshots
 
-> *(Add screenshots here to showcase your app in action)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30fb459c-4402-47b1-ac98-0ae0dd3a7c18" alt="image 1" width="300" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/7cf1f05e-0432-4a3a-b628-ecbe9e33e5a2" alt="image 2" width="300" style="display:inline-block;"/>
+</p>
+
 
 ## Tech Stack
 
